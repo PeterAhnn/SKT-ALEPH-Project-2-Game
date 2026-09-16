@@ -32,12 +32,12 @@ Node.js 설치 후 `npm test`로 기존 검사를 실행한다.
 ## 5. 남은 문제
 T02 상세 설명·카드 1~5·완주 체크리스트는 사용자 제공 내용을 docs/ASSIGNMENT.md에 반영했다.
 실제 A/B 각 10회 플레이 기록과 사용자 판단은 임의로 만들지 않는다.
-Vercel 배포는 생성했으나 로그인 보호 화면으로 연결된다. 무로그인 공개 확인과 GitHub 자동 배포 연결은 미완료다. 연결 도구는 팀 범위 권한 오류(403)를 반환했다. GitHub 변경은 기존 Sites에 자동 반영되지 않는다.
+기존 QA 기록에서 Vercel 무로그인 공개와 GitHub 변경 반영을 확인했다. 초기 로그인 보호 차단은 해소됐으며 관리 API 403은 별도 문제로 남아 있다. GitHub 변경은 기존 Sites에 자동 반영되지 않는다. 이번 PC 이동 정리에서는 공개 접근을 다시 검사하지 않았다.
 기록은 브라우저/도메인별 로컬 저장이므로 다른 PC나 배포 주소로 자동 이전되지 않는다.
 
 ## 6. 다음 행동
 이 문서와 AGENTS.md, docs/SKT-ALEPH-project-guide.md를 읽고 요청된 수정을 수행한다.
-vercel.json에 빌드 npm test / 출력 dist 설정을 추가했다. Vercel Settings → Git에서 저장소/main 연결, Deployment Protection에서 공개 접근 설정 후 실제 시크릿 창 확인이 필요하다. 상세 상태: docs/HANDOFF.md.
+새 PC 준비는 docs/workspace-common/HOME-RESUME.md를 따른다. docs/PLAYTEST.md의 실제 사용자 비교와 OS 창 전환 확인을 수행하고 제출 직전 URL의 새 시크릿 창 접근을 확인한다. 제출 문안의 결과물 주소는 https://skt-aleph-project-2-game.vercel.app/ 이다. 상세 상태: docs/HANDOFF.md.
 
 ## 7. 건드리지 말 것
 기존 게임 규칙과 저장 데이터 호환성을 요청 없이 변경하지 않는다.
