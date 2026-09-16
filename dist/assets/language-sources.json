@@ -1,0 +1,89 @@
+{
+  "verifiedAt": "2026-09-16",
+  "notes": "All SVGs copied from fetched upstream text, not redrawn. XML parsed successfully. PHP and R fetched through community Devicon; official original designs verified via language sites. Preserve notices when integrating. No blanket assertion of unrestricted trademark use.",
+  "assets": [
+    {
+      "file": "go.svg",
+      "language": "Go",
+      "provenance": "Official Go Gopher mascot from golang/website repository",
+      "url": "https://github.com/golang/website/blob/master/_content/images/gophers/blue.svg",
+      "officialPage": "https://go.dev/brand",
+      "notice": "Go Gopher mascot by Renee French, CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Original artwork unchanged; credit Renee French. This is the official mascot, not the Go wordmark."
+    },
+    {
+      "file": "php.svg",
+      "language": "PHP",
+      "provenance": "Devicon rendition of official PHP logo",
+      "url": "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg",
+      "officialPage": "https://www.php.net/download-logos.php",
+      "officialDownload": "https://www.php.net/images/logos/new-php-logo.svg",
+      "notice": "Original logo by Colin Viebrock, CC-BY-SA 4.0. Credit author and link https://creativecommons.org/licenses/by-sa/4.0/ ; Devicon MIT notice also included. This downloaded file is the Devicon distribution, not byte-identical certified official download."
+    },
+    {
+      "file": "ruby.svg",
+      "language": "Ruby",
+      "provenance": "Official ruby/www.ruby-lang.org repository",
+      "url": "https://github.com/ruby/www.ruby-lang.org/blob/master/images/header-ruby-logo.svg",
+      "officialPage": "https://www.ruby-lang.org/en/about/logo/",
+      "notice": "Copyright 2006 Yukihiro Matsumoto, CC-BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/ ."
+    },
+    {
+      "file": "swift.svg",
+      "language": "Swift",
+      "provenance": "Official swiftlang/swift-org-website repository",
+      "url": "https://github.com/swiftlang/swift-org-website/blob/main/assets/images/icon-swift-color.svg",
+      "officialPage": "https://www.swift.org/",
+      "notice": "Swift and Swift logo are Apple Inc. trademarks; copyright Apple. No unrestricted logo reuse license established in this bounded search."
+    },
+    {
+      "file": "cpp.svg",
+      "language": "C++",
+      "provenance": "Official isocpp/logos repository",
+      "url": "https://github.com/isocpp/logos/blob/master/cpp_logo.svg",
+      "officialPage": "https://github.com/isocpp/logos",
+      "notice": "Created by Jeremy Kratz; licensed by Standard C++ Foundation; upstream README points to https://isocpp.org/home/terms-of-use . Terms page returned 403 in research, so no blanket license claim."
+    },
+    {
+      "file": "javascript.svg",
+      "language": "JavaScript",
+      "provenance": "Unofficial community logo, original author repository",
+      "url": "https://github.com/voodootikigod/logo.js/blob/master/js.svg",
+      "officialPage": null,
+      "notice": "Community logo by Christopher Williams, MIT. Include JAVASCRIPT-LICENSE.txt. Do not label official JavaScript logo."
+    },
+    {
+      "file": "c.svg",
+      "language": "C",
+      "provenance": "Community Devicon icon, not official language logo",
+      "url": "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg",
+      "notice": "Devicon MIT, copyright 2015 konpa. Include DEVICON-LICENSE.txt."
+    },
+    {
+      "file": "csharp.svg",
+      "language": "C#",
+      "provenance": "Community Devicon icon, not verified as Microsoft official logo",
+      "url": "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg",
+      "notice": "Devicon MIT, copyright 2015 konpa. Include DEVICON-LICENSE.txt. Microsoft marks remain their owners' property."
+    },
+    {
+      "file": "kotlin.svg",
+      "language": "Kotlin",
+      "provenance": "Devicon distribution of full Kotlin mark plus wordmark",
+      "url": "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg",
+      "officialPage": "https://kotlinlang.org/docs/kotlin-brand-assets.html",
+      "notice": "Full gradient mark plus wordmark retained without recoloring, with original spacing. Distribution is Devicon, not certified byte-identical official brand ZIP. Respect Kotlin brand guidance and preserve Devicon MIT license. Official package https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip ."
+    },
+    {
+      "file": "r.svg",
+      "language": "R",
+      "provenance": "Devicon rendition of official R logo",
+      "url": "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg",
+      "officialPage": "https://www.r-project.org/logo/",
+      "officialDownload": "https://www.r-project.org/logo/Rlogo.svg",
+      "notice": "Original logo copyright 2016 R Foundation, CC-BY-SA 4.0 (or GPL-2 option). Use https://creativecommons.org/licenses/by-sa/4.0/ attribution; Devicon MIT notice included. Downloaded file is Devicon distribution."
+    }
+  ],
+  "omitted": {
+    "Java": "Oracle Java affinity button license permits only linking to specified download URLs, not a game badge. No suitable official reusable logo established."
+  }
+}
