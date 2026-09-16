@@ -1,0 +1,1 @@
+[{"test":"10 keydowns within 1 second","elapsedMs":82.39999999850988,"events":10,"actions":10,"deltaX":30},{"test":"pause freezes complete engine state","pass":true},{"test":"resume advances time","pass":true},{"test":"blur pauses and clears keys","pass":true},{"test":"input after focus return","pass":true}]

@@ -1,7 +1,7 @@
 # 제출 초안 — 실제 검사와 본인 확인 후 확정
 
-결과물: Vercel 배포 완료 후 URL 입력
-소스: https://github.com/PeterAhnn/SKT-ALEPH-Project-2-Game
+결과물: https://skt-aleph-project-2-game-peter-ahns-projects.vercel.app
+소스: https://github.com/PeterAhnn/SKT-ALEPH-Project-2-Game/tree/4ef2cf6ec0c5571dbfeea6df0bb2becf63b6dea5
 
 ## 짧은 확인법 4줄
 

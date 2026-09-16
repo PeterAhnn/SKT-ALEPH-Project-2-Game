@@ -71,8 +71,10 @@ node --test tests/engine.test.js
 
 배포 생성 주소: https://skt-aleph-project-2-game-peter-ahns-projects.vercel.app
 
-현재 로그인 보호 화면으로 연결되므로 제출 URL로 사용하지 마세요. Vercel 프로젝트의 Settings → Deployment Protection에서 공개 게임에 적용되는 Vercel Authentication을 해제한 뒤 시크릿 창에서 확인해야 합니다. Settings → Git에서 이 GitHub 저장소를 연결하고 main을 Production Branch로 지정하세요. 현재 자동 배포 연결은 미완료입니다.
+2026-09-16 후속 검사에서 로그인 없이 게임 화면이 열렸으며, GitHub의 PC 레이아웃 수정이 Vercel 공개 화면에 반영됐습니다. 사용자가 GitHub 연결 완료를 확인했습니다. 실제 20회 사람 플레이와 최종 난이도 선택은 아직 남아 있습니다.
 
 설정: Framework Other, Root Directory 저장소 최상위, Build Command npm test, Output Directory dist. 환경변수 불필요.
 
 [과제 2 상세 기준](docs/ASSIGNMENT.md) · [이어 작업 안내](docs/HANDOFF.md) · [제출 초안](docs/SUBMISSION.md)
+
+[최근 검사 결과](docs/QA-2026-09-16.md) · [직접 플레이 비교 순서](docs/PLAYTEST.md)
