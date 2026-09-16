@@ -1,2 +1,6 @@
-.sites-runtime/
+node_modules/
+.vercel/
+.env*
+.openai/
 .DS_Store
+.sites-runtime/
